@@ -58,7 +58,7 @@ public class ColorPickerPreference extends Preference implements
     static final int DEF_VALUE_DEFAULT = -6;
     boolean mUsesDefaultButton = false;
     int mDefValue = -1;
-    
+
     private boolean mShowLedPreview;
 
     private EditText mEditText;
