@@ -33,4 +33,10 @@
     <string name="reset">Reset</string>
     <string name="cancel">Cancel</string>
     <string name="default_text">Default</string>
+
+    <!-- Proper seekbar -->
+    <string name="proper_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="proper_seekbar_default_value">by default</string>
+    <string name="proper_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="proper_seekbar_default_value_is_set">Default value is set</string>
 </resources>
